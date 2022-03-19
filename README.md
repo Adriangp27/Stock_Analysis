@@ -9,8 +9,7 @@ An analysis of the Stocks dataset that was gathered over the past two years is r
 In spite of the fact that the original code works as intended, it is always possible to refactor it for a more efficient one. For example, faster runtimes can be achieved when both codes are processed simultaneously. Based on the 2017 stock market, the refactored script runs for about 0.1 seconds or less before and after refactoring (Note that the refactored runtime is running below 0.1 seconds, therefore it is demonstrated in scientific form).
 
 ![All_Stocks_Original](https://user-images.githubusercontent.com/99752443/159099053-f34625b2-f5cc-4469-afe7-4878b040ecc2.png)
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/99752443/159099077-4ab84f57-28ef-48b9-b2ad-f70f2008a6f3.png)
-
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/99752443/159099397-1c97685d-e0c4-4d87-8dc4-a744659b3908.png)
 
 ## Summary
 ###### Advantages
